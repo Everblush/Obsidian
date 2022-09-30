@@ -1,3 +1,7 @@
+<div align="center">
+<img align="center" src="https://github.com/Everblush/assets/blob/main/logo.png" style="height: 200px; width: 200px;" alt="logo"> 
+</div> 
+
 <h2 align="center">Everblush Obsidian Theme</h2>
 
 <p>
@@ -12,10 +16,14 @@
 
 # Preview 
 <p align="center"> 
-<img src="preview.png" alt="Obsidian"> 
+<img src="https://raw.githubusercontent.com/Everblush/assets/main/Obsidian/preview.png" alt="Obsidian"> 
 </p>
 
 ## Installation
 - Add obsidian.css to ```$HOME/.obsidian/themes```.
-- Navigate to `Settings` >> `Appearance` >> `Manage` >> And Select the theme. 
-- Or just install it from Plugins Section.
+
+### OR 
+- You can navigate to `Settings >> Apperance >> Manage` and search for **Everblush**.
+- And Install it. 
+
+
