@@ -299,12 +299,14 @@ thead
     color: var(--inline-code) !important;
 }
 
-.markdown-preview-view hr {
+.markdown-preview-view hr
+{
     border: none;
     border-top: 1px solid var(--text-faint);
 }
 
-.markdown-source-view hr {
+.markdown-source-view hr
+{
     border: none;
     border-top: 1px solid var(--text-faint);
 }
